@@ -1,6 +1,6 @@
 # cargo_planner
 Presented is my simulation of ship and airplane cargo loading
-# Cargo Planner
+
 
 This Python script simulates cargo loading for two types of vehicles:
 
